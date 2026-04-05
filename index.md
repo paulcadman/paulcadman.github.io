@@ -1,5 +1,6 @@
 ---
 title: Paul Cadman
+layout: default
 ---
 
 # Paul Cadman

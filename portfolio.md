@@ -1,3 +1,9 @@
+---
+title: Lean Portfolio
+layout: default
+hide_site_title: true
+---
+
 # Lean Portfolio
 
 ## [lean-ios](https://github.com/paulcadman/lean-ios)
