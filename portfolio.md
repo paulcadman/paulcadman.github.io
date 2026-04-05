@@ -4,7 +4,7 @@
 
 A library to build and run Lean apps in iOS. The project contains:
 
-1. Lean [SDL3 Bindings](https://wiki.libsdl.org/SDL3/FrontPage)
+1. Lean [SDL3](https://wiki.libsdl.org/SDL3/FrontPage) bindings
 2. A modified Lean4 source that compatible with iOS
 3. Build scripts to build Lean runtime, stdlib and Lean programs for iOS
 4. Example applications, including flappy bird
