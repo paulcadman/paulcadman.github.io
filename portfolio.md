@@ -59,7 +59,7 @@ An orbital mechanics simulator built using raylean and lean-ecs.
 
 ### [flappy](https://github.com/paulcadman/flappy)
 
-A Flappy Bird game written in Lean.
+A Flappy Bird game written built using raylean.
 
 ## [lean-pan](https://github.com/funexists/lean-pan)
 
